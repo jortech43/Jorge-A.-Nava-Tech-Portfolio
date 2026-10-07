@@ -9,7 +9,7 @@ Help Desk Ticketing & Support Simulation
 
 Enterprise Active Directory Lab - Windows Server Environment
   Deployed a Windows Server 2022 and domain controller. Troubleshot and configured using 
-  PowerShell bulk scripting, GPO passowrd policies, and NTFS file permissions to simulate 
+  PowerShell bulk scripting, GPO passoword policies, and NTFS file permissions to simulate 
   user and group policy management 
 
 Hardware Diagnostics & Repair - Client Laptops
