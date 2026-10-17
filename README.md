@@ -18,7 +18,7 @@ Hardware Diagnostics & Repair - Client Laptops
   Memory Diagnostic, implementing a dual-boot setup with Linux Mint and Windows 11, and using 
   Windows command-line interface for troubleshooting driver corruption.
 
-(Add-On) Proxmox Virtualization & OPNsense Firewall Lab
+Proxmox Virtualization & OPNsense Firewall Lab
 Installed Proxmox VE hypervisor and configured an OPNsense firewall virtual machine running on a 
 refurbished laptop I fixed; configured VLAN subinterfaces with a layer 2 network  switch and OPNsense's 
 inter-VLAN capabilities while studying for Network+
