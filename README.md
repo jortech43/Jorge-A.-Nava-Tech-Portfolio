@@ -1,6 +1,6 @@
 About
 
-My Tech Portfolio consist of each project branch with PDF troubleshooting documentations, configuration designs, goal objectives, and references I have used to complete each project.
+My Tech Portfolio consists of each project branch with PDF troubleshooting documentations, configuration designs, goal objectives, and references I have used to complete each project.
   - I will update/ make adjustments accordingly.
 
 Help Desk Ticketing & Support Simulation
@@ -9,13 +9,13 @@ Help Desk Ticketing & Support Simulation
 
 Enterprise Active Directory Lab - Windows Server Environment
   Deployed a Windows Server 2022 and domain controller. Troubleshot and configured using 
-  PowerShell bulk scripting, GPO passoword policies, and NTFS file permissions to simulate 
+  PowerShell bulk scripting, GPO password policies, and NTFS file permissions to simulate 
   user and group policy management 
 
 Hardware Diagnostics & Repair - Client Laptops
-  Configured and diagnosed a Lenovo ThinkPad 4th Gen X1 Carbon that experienced sudden shutdown, 
-  immediate battery loss, and driver corruption. Diagnosed the BIOS/ UEFI setup using the Memory 
-  Hardware Diagnostics, implementing a dual-boot setup with Linux Mint and Windows 11, and using 
+  Configured and diagnosed a ThinkPad X1 Carbon Gen 4 that experienced sudden shutdown, 
+  immediate battery loss, and driver corruption. Diagnosed the BIOS/UEFI setup using the Windows 
+  Memory Diagnostic, implementing a dual-boot setup with Linux Mint and Windows 11, and using 
   Windows command-line interface for troubleshooting driver corruption.
 
 (Add-On) Proxmox Virtualization & OPNsense Firewall Lab
